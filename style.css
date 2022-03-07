@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+body{
+    background-color: rgb(250px, 300px, 150px);
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.items{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.carousel{
+display: flex;
+position: relative;
+justify-content: center;
+align-content: center;
+}
+.things{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
